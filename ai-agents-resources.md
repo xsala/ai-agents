@@ -17,3 +17,18 @@ https://github.com/dair-ai/Prompt-Engineering-Guide
 
 * Hands on AI engineering
 https://github.com/Sumanth077/Hands-On-AI-Engineering
+
+* Generative AI guide
+https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+* Designing Machine Learning Systems
+https://github.com/chiphuyen/dmls-book
+
+* ML for begineers, Micrsoft
+https://github.com/chiphuyen/dmls-book
+
+* LLM Course
+https://github.com/mlabonne/llm-course
+
+
+  
